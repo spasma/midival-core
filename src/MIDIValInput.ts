@@ -197,7 +197,7 @@ export class MIDIValInput {
             break;
           default:
             // TODO: Unknown message.
-            console.log("unknown msg", midiMessage);
+            // console.log("unknown msg", midiMessage);
             break;
         }
       }
